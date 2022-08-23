@@ -3,3 +3,6 @@
 ####    code : b_card  -----      data: testData & trainData
 
 
+建模时注意的问题。
+
+1、数据类型是否有decimal ，最好先统一小数点后几位、因为后面的小数点可能会影响模型的最终得份
